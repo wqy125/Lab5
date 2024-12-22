@@ -1,0 +1,25 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    }
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    }
+
+th{
+    background-color: #e0e0e0;
+}
+
+th, td {
+    padding: 8px;
+}
+
+tfoot td{
+    font-weight: bold;
+}
+        
+footer {
+    font-weight: bold;
+}
